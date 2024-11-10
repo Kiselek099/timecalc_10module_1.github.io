@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TimeCalculator</string>
+    <string name="title">Калькулятор времени</string>
+    <string name="text_plus">+</string>
+    <string name="text_minus">-</string>
+    <string name="inputTime">Введите время в формате __h__m__s</string>
+    <string name="result">Результат</string>
+    <string name="reset">Перезагрузка</string>
+    <string name="exit">Выход</string>
+
+</resources>
